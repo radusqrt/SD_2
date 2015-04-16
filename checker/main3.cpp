@@ -1,0 +1,7 @@
+ADD 0 mamaliga
+ADD 9 cu
+ADD 12 smantana
+COPY 3 16
+PASTE 21
+PASTE 24
+COP

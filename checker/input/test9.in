@@ -1,0 +1,13 @@
+ADD 0 mamaliga
+CUT 0 9
+ADD 0 mamaliga
+ADD 9 cu
+ADD 12 smantana
+CUT 9 12
+CUT 9 18
+ADD 9 cu
+ADD 12 smantana
+CUT 0 12
+ADD 0 mamaliga
+ADD 9 cu
+CUT 0 22

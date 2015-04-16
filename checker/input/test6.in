@@ -1,0 +1,5 @@
+COPY 5 5
+PASTE 0
+ADD 0 mamaliga
+COPY 0 9
+PASTE 9

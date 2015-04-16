@@ -1,0 +1,6 @@
+ADD 0 ana
+ADD 4 are
+ADD 8 mere
+COPY 0 13
+UNDO
+REDO
